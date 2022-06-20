@@ -1,2 +1,4 @@
-#! /bin/bash
-echo "Hello World!"
+# zsh
+# zsh 5.8
+
+echo Hello World!

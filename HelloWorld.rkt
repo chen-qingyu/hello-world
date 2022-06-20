@@ -1,2 +1,5 @@
+; Racket
+; Racket v8.5 [cs]
+
 #lang racket
-"Hello World!"
+(displayln "Hello World!")
