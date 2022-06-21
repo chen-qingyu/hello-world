@@ -1,4 +1,4 @@
 -- SQL
--- 8.0.26 MySQL Community Server - GPL
+-- MySQL Community Server Ver 8.0.26
 
-SELECT 'Hello World!';
+SELECT 'Hello World!\n';
