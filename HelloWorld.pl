@@ -1,4 +1,4 @@
-% Prolog
-% SWI-Prolog (threaded, 64 bits, version 8.4.2)
+# Perl
+# Perl v5.30.0
 
-:- write("Hello World!"), nl.
+print "Hello World!\n";
