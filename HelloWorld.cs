@@ -1,5 +1,5 @@
 // C#
-// .NET Core 3.1
+// Microsoft (R) Visual C# Compiler version 4.8.4084.0
 
 class HelloWorld
 {
