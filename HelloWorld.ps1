@@ -1,4 +1,5 @@
 # PowerShell
-# PSVersion 5.1.19041.1682
+# PowerShell 7.4.0
+# pwsh HelloWorld.ps1
 
 Write-Output 'Hello World!'

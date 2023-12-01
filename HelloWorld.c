@@ -1,5 +1,6 @@
 // C
 // gcc.exe 8.1.0
+// gcc -o HelloWorld.exe HelloWorld.c; ./HelloWorld.exe
 
 #include <stdio.h>
 
