@@ -1,4 +1,5 @@
 -- SQL
--- MySQL Community Server Ver 8.0.26
+-- SQLite version 3.36.0
+-- sqlite < HelloWorld.sql
 
 SELECT 'Hello World!\n';

@@ -1,5 +1,6 @@
 ; Assembly x86
-; Emu8086 Version 4.08
+; NASM version 2.14.03rc2
+; nasm HelloWorld.asm; emu8086 HelloWorld
 
 org 100h
 
