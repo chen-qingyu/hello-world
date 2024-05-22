@@ -14,3 +14,7 @@
 1. 语言名称
 2. 编译器或解释器版本
 3. 编译和运行指令
+
+备忘录：
+
+Q#, Vala, Zig, Nim, Crystal, Bend, Pony, and more on TIOBE
