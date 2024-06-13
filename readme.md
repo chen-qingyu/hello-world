@@ -18,4 +18,4 @@
 
 备忘录：
 
-Q#, Vala, Zig, Nim, Crystal, Bend, Pony, and more on TIOBE
+Q#, Vala, Zig, Nim, Crystal, Bend, Picat, and more on TIOBE
