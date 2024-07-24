@@ -18,4 +18,4 @@
 
 备忘录：
 
-Q#, Vala, Zig, Nim, Crystal, Bend, Picat, and more on TIOBE
+Q#, Solidity, Vala, Zig, Nim, Crystal, Bend, Picat, and more on TIOBE
