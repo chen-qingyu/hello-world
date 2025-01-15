@@ -1,6 +1,6 @@
 ### HelloWorld
 
-"Hello World" collection.
+"Hello World" collections.
 
 0. 为了好玩，以及成就感。
 1. 在此上传的都是**自己学过**的**编程语言**的 HelloWorld 代码。
